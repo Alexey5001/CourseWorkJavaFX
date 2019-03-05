@@ -1,0 +1,7 @@
+h1 {background-color: lightsteelblue;}
+body{
+  background-image:url(fon.png);
+  font: 12pt Avantgarde;
+}
+img {border-style: dashed;
+	border-color: lightsteelblue }
